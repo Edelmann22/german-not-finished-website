@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/german-not-finished-website/static/css/main.197d82e4.css",
+    "main.js": "/german-not-finished-website/static/js/main.c00ce3fd.js",
+    "index.html": "/german-not-finished-website/index.html",
+    "main.197d82e4.css.map": "/german-not-finished-website/static/css/main.197d82e4.css.map",
+    "main.c00ce3fd.js.map": "/german-not-finished-website/static/js/main.c00ce3fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.197d82e4.css",
+    "static/js/main.c00ce3fd.js"
+  ]
+}
